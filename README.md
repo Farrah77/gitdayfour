@@ -1,2 +1,3 @@
 # gitdayfour
-Hello this s first branch
+Hello from second branch
+
